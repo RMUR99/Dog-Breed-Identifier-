@@ -38,7 +38,7 @@ Here is an image to show what you should see in the end
 
 
 # Activate your Conda 
-<img src ="images\activate conda.png"/>
+<img src ="images/activate conda.png"/>
 
 
 
@@ -49,60 +49,60 @@ Here is an image to show what you should see in the end
 
 
 # Cuda Command result pt1
-<img src ="images\cuda part 1.png"/>
+<img src ="images/cuda part 1.png"/>
 
 
 
 
 # Cuda Command result pt2
-<img src ="images\cuda part 2.png"/>
+<img src ="images/cuda part 2.png"/>
 
 
 
 
 # Intall Tensorflow 2.11
-<img src ="images\install tensorflow 2.11.png"/>
+<img src ="images/install tensorflow 2.11.png"/>
 
 
  # install Tensorflow hub 
  i had to reninstall Tensorflow again cause the version got updated automatically so downgrade it 
- <img src ="images\tensorhub.png"/>
+ <img src ="images/tensorhub.png"/>
 
 
 # In case your Tensorflow got updated to 2.16 downgrade it using this command and use `pip list` to show installed versions and then install the 2.10 version again
-<img src ="images\tensorflow downgrade.png"/>
+<img src ="images/tensorflow downgrade.png"/>
 
-<img src ="images\downgrade check.png"/>
+<img src ="images/downgrade check.png"/>
 
 
 
 # Command success criteria
-<img src ="images\command sucess criteria.png"/>
+<img src ="images/command sucess criteria.png"/>
 
 
 
 # Now run python to ensure that your tensorGPU works !
-<img src ="images\python run.png"/>
+<img src ="images/python run.png"/>
 
 
 
 # Tenforflow gpu sucess criteria 
 
-<img src ="images\Gpu sucess.png"/>
+<img src ="images/Gpu sucess.png"/>
 
 
 
 # VScode Image 
 open the folder and this will show automatically 
-<img src ="images\vsode first image.png"/>
+<img src ="images/vsode first image.png"/>
 
 
 # Choose the python environment 
-<img src ="images\python environment.png"/>
+<img src ="images/python environment.png"/>
 
 
 # Press `Shift + Enter ` To run the cell and here is the result 
-<img src ="images\GPU vscode result.png"/>
+<img src ="images/GPU vscode result.png"/>
 
 
 
