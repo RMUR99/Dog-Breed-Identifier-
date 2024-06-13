@@ -10,7 +10,7 @@ Since i am working on Vscode here are the tools i used
 * Tensorflow Hub : https://www.tensorflow.org/hub/installation
 * Cuda and Cudnn :  https://www.tensorflow.org/install/source_windows ( we will work through it on terminal )
 
-## ⚠️ check if your GPU is suitable you can spare youself in using colab but if you want it in vscode follow this doumentation 
+## ⚠️ check if your GPU is suitable you can spare yourself in using colab but if you want it in vscode follow this doucumentation 
 ## I AM NOT RESPOSNIPLE FOR YOUR LAPTOP'S DEATH
 ## ⚠️ GPU wont be recognized by anything above than 2.10 
 
